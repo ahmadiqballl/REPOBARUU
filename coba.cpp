@@ -10,4 +10,5 @@ int main(){
     cout << "*PTR : " << *ptr << endl;
     cout << "PTR : " << ptr << endl;
     cout << "&PTR : " << &ptr << endl;
+    cout << "Melakukan perubahan";
 }
